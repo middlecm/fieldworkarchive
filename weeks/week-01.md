@@ -13,7 +13,7 @@ permalink: /weeks/week-01/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
-![共同繪製的教室導航地圖](/assets/images/taiwanmap.HEIC)
+![共同繪製的教室導航地圖]({{ '/assets/images/taiwanmap.HEIC' | relative_url }})
 不能含東南西北，因此剔除台北台南台東台中等地。
 
 ## FRICTION｜摩擦
@@ -28,6 +28,5 @@ permalink: /weeks/week-01/
 
 縮放、碎形，區域的區域。進入彰化後，將彰化當作一個台灣地圖，再給一個縣市位置，無限收斂至精確點。
 
-
-![共同繪製的教室導航地圖](/assets/images/facedetect1.jpg)
+![共同繪製的教室導航地圖]({{ '/assets/images/facedetect1.jpg' | relative_url }})
 
