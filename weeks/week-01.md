@@ -13,8 +13,11 @@ permalink: /weeks/week-01/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+
 ![共同繪製的教室導航地圖]({{ '/assets/images/taiwanmap.HEIC' | relative_url }})
+
 不能含東南西北，因此剔除台北台南台東台中等地。
+
 
 ## FRICTION｜摩擦
 
