@@ -12,10 +12,12 @@ permalink: /weeks/week-02/
 ## TRACE｜痕跡
 
 放入 1–3 張圖片，並為每張圖片寫下具體說明：何時、何地、發生了什麼，以及為什麼留下它。
+找到一些傳統意義上的 desire path 
 
 ## FRICTION｜摩擦
 
 描述一個沒有如預期發生的瞬間。
+雖然是我會走的 desire path，踐踏感並不明顯。
 
 ## CONNECTION｜連結
 
