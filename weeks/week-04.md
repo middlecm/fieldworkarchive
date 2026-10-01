@@ -24,6 +24,9 @@ permalink: /weeks/week-04/
 
 垃圾桶旁邊有基金會的發票箱。發票要兌獎兩個月要來收一次，但底下可辨識的發票已經是去年，代表根本沒人來收過。
 比起旁邊封閉的垃圾桶，這箱更像發票的垃圾場。
+![共同繪製的教室導航地圖]({{ '/assets/images/LINE_ALBUM_2026922_260922_1.jpg' | relative_url }}) 
+![共同繪製的教室導航地圖]({{ '/assets/images/LINE_ALBUM_2026922_260922_2.jpg' | relative_url }}) 
+![共同繪製的教室導航地圖]({{ '/assets/images/LINE_ALBUM_2026922_260922_3.jpg' | relative_url }}) 
 
 ## CONNECTION｜連結
 
