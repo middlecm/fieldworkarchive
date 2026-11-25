@@ -5,6 +5,13 @@ permalink: /weeks/week-12/
 
 <span class="label">WEEK 12</span>
 
+
+![共同繪製的教室導航地圖]({{ '/assets/images/ARTIFICIAL INQUIRIES.HEIC' | relative_url }})
+
+![共同繪製的教室導航地圖]({{ '/assets/images/Universe.HEIC' | relative_url }})
+
+
+
 # 提袋與非線性敘事
 
 - Universal Spatial Enclosure：普遍性空間圈占
